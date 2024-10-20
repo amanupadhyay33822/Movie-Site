@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the project from the Github repository by running the command:
 ```bash
-git clone https://github.com/Sorracha-A/Letterboxd-Clone
+git clone https://github.com/amanupadhyay33822/Movie-Site.git
 ```
 
 2. Navigate to the project's root directory in your terminal.
